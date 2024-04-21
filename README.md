@@ -5,6 +5,6 @@ Led a subteam which created an arm mechanism to get the robot over a 12” wall.
 Integrated electrical modules such as proximity sensor, battery, and RC controller with open loop and autonomous control.
 
 <p align=center>
-  <img src="cad model.png" width=45%>
-  <img src="final assembly.png" width=45%>
+  <img src="cad model.png" width=49%>
+  <img src="final assembly.png" width=49%>
 </p>
